@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Python-based CAPTCHA reader designed to automatically read and decode CAPTCHA images containing alphanumeric characters. The objective was to develop a solution that can process CAPTCHA images and accurately extract the embedded code using a simple
+This project is a Python-based CAPTCHA reader designed to automatically read and decode CAPTCHA images containing alphanumeric characters. The objective was to develop a solution that can process CAPTCHA images and accurately extract the embedded code using a simple yet effective approach to achieve reliable results.
 
 ## Approach and Solution
 
